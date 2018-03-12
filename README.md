@@ -428,6 +428,7 @@ unprofessional behavior.
 * Barbara Laufersweiler
 * Adriene Lim
 * Maggie Dickson
+* Derek Merleaux
 * Ann Frenkel 
 * Scout Calvert, PhD. Data Librarian, Michigan State University
 * Edward Bilodeau
@@ -435,13 +436,13 @@ unprofessional behavior.
 * Thomas Keays
 * Barbara Hui
 * Victoria Pilato
-* Tom Habing
 * Ginny Steel
 * Janet Carleton
 * Araceli Hintermeister
 * John Huck
 * Gerald R. Beasley 
 * Randy Stern
+* Saskia Scheltjens
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
